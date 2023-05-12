@@ -5,14 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a website project focused on Studio Ghibli.
+- 🌱 I’m currently learning javascript
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love going to church and watching anime
 -->
 
 <div>
@@ -32,7 +28,7 @@ Here are some ideas to get you started:
 <img align="center" alt="Mille-MySQL"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Mille-C"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
 <img align="center" alt="Mille-Canva"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="right" alt="Mille-Asuna" height="100"src="https://user-images.githubusercontent.com/101273165/228703015-c4ad7478-1540-4c57-84be-dab17e8e45ab.gif">
+<img align="right" alt="Mille-Asuna" height="100"src="https://i.pinimg.com/originals/0b/d2/eb/0bd2ebe8665f20f4264fbffb92b9142d.gif">
 </div>     
 
  ##
