@@ -1,15 +1,12 @@
 ### Olá 👋
 
-<!--
-**millemaria/millemaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a website project focused on Studio Ghibli.
-- 🌱 I’m currently learning javascript
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love going to church and watching anime
--->
+- 👩‍🎓Estudante do EmbarqueDigital pelo Porto Digital
+- 💻Conhecimentos em Back-End/Front-End/Banco de Dados
+- 📈Fiz Residência de engenharia de dados com a empresa A3Data
+- 👩‍💻Estágiaria de TI no Complexo Administrativo de Jaboatão dos Guararapes
+- ☕Adquirindo mais experiência no Front-End
+- ⚡Meta: Me torna FullStack
+- 💁‍♀️Pronome: Ela/Dela
 
 <div>
 <a href="http://github.com/Millemaria">
