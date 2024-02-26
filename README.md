@@ -5,7 +5,7 @@
 - 📈Fiz Residência de engenharia de dados com a empresa A3Data
 - 👩‍💻Estágiaria de TI no Complexo Administrativo de Jaboatão dos Guararapes
 - ☕Adquirindo mais experiência no Front-End
-- ⚡Meta: Me torna FullStack
+- ⚡Meta: Me tornar FullStack
 - 💁‍♀️Pronome: Ela/Dela
 
 <div>
