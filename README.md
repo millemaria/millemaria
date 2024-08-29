@@ -1,9 +1,8 @@
 ### Olá 👋
 
-- 👩‍🎓Estudante do EmbarqueDigital pelo Porto Digital
-- 💻Conhecimentos em Back-End/Front-End/Banco de Dados
+- 👩‍🎓Formanda pelo EmbarqueDigital/Porto Digital
+- 💻Conhecimentos em Front-End/Banco de Dados
 - 📈Fiz Residência de engenharia de dados com a empresa A3Data
-- 👩‍💻Estágiaria de TI no Complexo Administrativo de Jaboatão dos Guararapes
 - ☕Adquirindo mais experiência no Front-End
 - ⚡Meta: Me tornar FullStack
 - 💁‍♀️Pronome: Ela/Dela
@@ -23,7 +22,8 @@
 <img align="center" alt="Mille-CSS"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />        
 <img align="center" alt="Mille-MySQL"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Mille-Python"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="Mille-docker"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Mille-Docker"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Mille-React"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 </div>     
 
