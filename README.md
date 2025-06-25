@@ -6,7 +6,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Jamille Maria
  👩🏻‍💻 Sou uma desenvolvedora front-end, criativa e apaixonada por tecnologia.<br>
- ⚡ Formada em ADS na UNI-TE PE<br>
+ ⚡ Formada em ADS na UNIT-PE<br>
  👩‍🎓 Especialização em Ciências de dados e Inteligência Artificial<br>
 </div>
 
