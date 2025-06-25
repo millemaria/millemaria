@@ -1,5 +1,5 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://github.com/millemaria/millemaria/blob/main/banner.png"/>
+
 
 ---
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/larialbu">
+  <a href="https://github.com/millemaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
@@ -49,7 +49,7 @@
 <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/millemaria/millemaria/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/millemaria/millemaria/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/millemaria/millemaria/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
