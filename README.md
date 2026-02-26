@@ -1,73 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=323330&height=200&section=header&text=Jamille%20Maria&fontSize=70&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Jamille%20Barbosa&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20AI%20&%20Data%20Science%20Enthusiast&descSize=20&descAlignY=55" />
 
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou a Jamille!</h1>
-  
-  <p><b>Desenvolvedora Front-End | Pós-graduanda em IA e Ciência de Dados</b></p>
-
   <p>
-    🚀 Apaixonada por transformar café em código e dados em insights.<br>
-    🎓 Formada em ADS (UNIT-PE) e mergulhando fundo no ecossistema de Inteligência Artificial.
+    👩🏻‍💻 <b>Junior Web Frontend Developer</b> | Especialista em interfaces e análise de dados.<br>
+    🎓 Formada em ADS (UNIT-PE) | Pós-graduanda em <b>IA e Ciência de Dados</b>.
   </p>
 
-  <a href="https://www.linkedin.com/in/jamillemaria" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:barbosaj901@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/millesmaria_?" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/jamillemaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:barbosaj901@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<br>
+---
+
+### 🚀 Stack Técnica
+
+| **Web & Mobile** | **Data Science & AI** | **Ferramentas & DevOps** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) | ![PM2](https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=white&style=flat-square) |
+| ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) | ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white&style=flat-square) | ![SSH](https://img.shields.io/badge/-SSH-000000?logo=gnuterminal&logoColor=white&style=flat-square) |
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Frontend Development</b><br><br>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
-    </td>
-    <td align="center" width="50%">
-      <b>Data Science & AI</b><br><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas e Atividade
+### 📊 Atividade e Conquistas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millemaria&theme=react&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millemaria&theme=react&layout=compact&hide_border=false"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=millemaria&theme=darkhub&column=4&margin-w=15&no-bg=true" alt="Troféus" />
+
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millemaria&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millemaria&theme=dark&layout=compact&langs_count=6" />
 </div>
-
-<br>
-
-<div align="center">
-  <p><b>Contribuições (Snake Game)</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/millemaria/millemaria/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/millemaria/millemaria/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/millemaria/millemaria/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=323330&height=120&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer" />
+  <i>"Transformando dados complexos em interfaces inteligentes."</i>
+</div>
