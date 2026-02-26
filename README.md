@@ -1,20 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Jamille%20Barbosa&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20AI%20&%20Data%20Science%20Enthusiast&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Jamille%20Barbosa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20AI%20&%20Data%20Science&descColor=dddddd&descSize=20&descAlignY=55" />
 
 <div align="center">
   <p>
-    👩🏻‍💻 <b>Junior Web Frontend Developer</b> | Experiência em Portais Governamentais.<br>
-    🎓 Formada em ADS (UNIT-PE) | Pós-graduanda em <b>IA e Ciência de Dados</b>.
+    👩🏻‍💻 <b>Junior Web Frontend Developer</b> | IA.<br>
+    🎓 Formada em Análise e Desenvolvimento de Sistemas (UNIT-PE) | Pós-graduanda em <b>IA e Ciência de Dados</b>.
   </p>
 
   <a href="https://www.linkedin.com/in/jamillemaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:barbosaj901@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/millesmaria_?" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
 
+### 🚀 Sobre Mim
+Desenvolvi e gerenciei a implantação de plataformas governamentais críticas, como o **Portal da Transparência, Diário Oficial e o site institucional** de Jaboatão dos Guararapes. Atualmente, foco em unir a excelência do Frontend com o poder da Ciência de Dados e Engenharia de Dados.
+
 ### 🛠️ Minha Stack Técnica
 
-| **Frontend & Mobile** | **Data Engineering & AI** | **DevOps & Ferramentas** |
+| **Frontend & Mobile** | **Data Engineering & AI** | **DevOps & Infra** |
 | :--- | :--- | :--- |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) |
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) | ![PM2](https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=white&style=flat-square) |
@@ -23,7 +27,7 @@
 
 ---
 
-### 📊 Estatísticas de Contribuição
+### 📊 Estatísticas e Insights
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=millemaria&theme=darkhub&no-bg=true&column=4" alt="Troféus" />
@@ -38,4 +42,5 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer" />
+  <i>"Transformando dados em soluções e código em impacto social."</i>
 </div>
